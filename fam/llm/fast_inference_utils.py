@@ -278,7 +278,7 @@ def _load_model(
             k = k.replace(".mlp.c_proj.", ".feed_forward.w2.")
 
     model.load_state_dict(state_dict, assign=True)
-    model = model.to(device=device, dtype=torch.bfloat16)
+    model = model.to(device=device, dtype=precision)
 
     if quantisation_mode == "int8":
         warnings.warn(
