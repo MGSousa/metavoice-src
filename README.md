@@ -1,9 +1,7 @@
 # MetaVoice-1B
 
-
-
 [![Playground](https://img.shields.io/static/v1?label=Try&message=Playground&color=fc4982&url=https://ttsdemo.themetavoice.xyz/)](https://ttsdemo.themetavoice.xyz/)
-<a target="_blank" style="display: inline-block; vertical-align: middle" href="https://colab.research.google.com/github/metavoiceio/metavoice-src/blob/main/colab_demo.ipynb">
+<a target="_blank" style="display: inline-block; vertical-align: middle" href="https://colab.research.google.com/github/MGSousa/metavoice-src/blob/main/colab_demo.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 [![](https://dcbadge.vercel.app/api/server/Cpy6U3na8Z?style=flat&compact=True)](https://discord.gg/tbTbkGEgJM)
